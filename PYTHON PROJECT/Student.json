@@ -1,0 +1,58 @@
+{
+ "Students": [
+  {
+   "Rollno": "1234567",
+   "Name": "shubhi",
+   "Gender": "Male",
+   "address": "punjab",
+   "Phone no": "98765432",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "2345",
+   "Name": "raman",
+   "Gender": "Male",
+   "address": "pune",
+   "Phone no": "98765",
+   "Batch": " Batch 2020",
+   "Hostel": false
+  },
+  {
+   "Rollno": "123",
+   "Name": "harman",
+   "Gender": "Male",
+   "address": "goa",
+   "Phone no": "987654",
+   "Batch": " Batch 2020",
+   "Hostel": false
+  },
+  {
+   "Rollno": "1223",
+   "Name": "rahul",
+   "Gender": "Male",
+   "address": "parana",
+   "Phone no": "12342",
+   "Batch": " Batch 2020",
+   "Hostel": false
+  },
+  {
+   "Rollno": "12234",
+   "Name": "tarun",
+   "Gender": "Male",
+   "address": "ambala",
+   "Phone no": "1546521",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "1221",
+   "Name": "harjot",
+   "Gender": "Female",
+   "address": "panaji",
+   "Phone no": "1233222",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  }
+ ]
+}
